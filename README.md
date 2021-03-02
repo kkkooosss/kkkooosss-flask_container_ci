@@ -1,4 +1,4 @@
-
+[![Build_and_test_Flask_app](https://github.com/kkkooosss/kkkooosss-flask_container_ci/actions/workflows/main.yml/badge.svg)
 
 Your mission, should you choose to accept it, involves fixing the app in this directory, containerize it and set up a CI for it.
 Please read carefully all the instructions.
